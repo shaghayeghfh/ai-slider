@@ -1,0 +1,6 @@
+{
+  "name": "TOONHUB - 3D Character Figurine Showcase",
+  "description": "Interactive character figurine carousel featuring fluid transitions, dynamic color themes, and vibrant 3D collectibles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
